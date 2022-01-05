@@ -47,6 +47,7 @@ def face():
     cat.forward(100)
     cat.left(90)
     cat.forward(100)
+
     cat.pendown()
     cat.begin_fill()
     cat.forward(100)
